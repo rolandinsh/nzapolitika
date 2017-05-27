@@ -8,4 +8,4 @@ Būs neliels apkopojums ar politiķiem
 Būs neliels apkopojums arī ar vēlēsanu kandidātiem. 
 
 ## Aktualitāte
-Diemžēl šo visu veidoju viens pats, bet ja kāds vēla spalīdzēt, to droši var darīt.
+Diemžēl šo visu veidoju viens pats, bet ja kāds vēlas palīdzēt, to droši var darīt.
